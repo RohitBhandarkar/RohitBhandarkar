@@ -6,8 +6,6 @@
 
 ![code-coding](https://user-images.githubusercontent.com/88735333/172037349-f8e45447-08b3-4442-a0bb-f9adeef20ae6.gif)
 
-
-- 🔭 I’m currently working on vulnerability testing in blockchains.
 - 🌱 I’m currently learning backend and full stack web3 development.
 - 📫 Reach me at rohitbhandarkar@hotmail.com
 
